@@ -12,6 +12,7 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 🏦 Community Wallet (DAO-style Shared Wallet)
+
 📌 Overview
 
 The Community Wallet is a DAO-style shared wallet smart contract built on Ethereum that enables a group of participants to collectively manage funds through a multi-approval spending mechanism.
@@ -96,6 +97,7 @@ Deployment configured using Hardhat Ignition modules
 Sepolia deployment planned in upcoming phase
 
 📂 Project Structure
+
 community-wallet/
  ├─ contracts/
  │   └─ CommunityWallet.sol
